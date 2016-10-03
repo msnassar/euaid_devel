@@ -1,0 +1,6 @@
+name = EUAID Devel
+description = Development module for EUAID
+core = 7.x
+package = EUAID
+multisite_version = 2.2
+php = 5.2.4
